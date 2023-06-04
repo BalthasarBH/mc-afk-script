@@ -1,5 +1,6 @@
 # AFK-SCRIPT
 [Englisch] Hello! I have write a Afk-Script and now you can use it!
+
 [German] Moin! Ich habe ein Afk-Script geschrieben und ihr könnte es jetzt benutzten ich habe mich ein bisschen informiert und das ist das Resultat! Ich finde es ist wirklich gut :D
 # Install & Run [Englisch]
 1. Install Python - Frist go to https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe and install the exe. If you have problems watch this [video](https://youtu.be/yivyNCtVVDk)
