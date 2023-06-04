@@ -13,4 +13,5 @@
 4. Vorbereitungen - Bevor das script leuft lade dir die lib.bat runter führe diese aus. Dies sollte unter allen Windows bedriebsystemen Funktionieren.
 5. Script ausführen - Nun Lade dir das afk script runter und schreibe in die powershell "python3 DATEINAME.py" gehe ins spiel und drücke ENTER
 
-* [X] lol
+* [X] Eine Function um das Script direct zu beenden?
+* [ ] Eine Tutorial funktion wie was Funktioniert?
