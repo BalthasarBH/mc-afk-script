@@ -1,7 +1,7 @@
-# AFK-SCRIPT
-Moin! Ich habe ein Afk-Script geschrieben und ihr könnte es jetzt benutzten ich habe mich ein bisschen informiert und das ist das Resultat! Ich finde es ist wirklich gut :D
+# title lul
+Moin! Ich habe programmiere in Python unterschiedliche afkscripte für unterschiedliche Spiele sollte eins fehlen komm auf mein [Discord](https://discord.gg/4PJysZcUVT) und Schreib mir!
 
-# Ausführen 
+# run
 1. [Installieren Python](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K?hl=de-de&gl=de) und sei dir sicher das du `python3 --version` im Terminal ausführen kannst | Installiere dann folgendes
 2.  `python3 -m pip install keyboard`
 3. Suche das richtige afkscript aus
