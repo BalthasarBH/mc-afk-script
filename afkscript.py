@@ -8,7 +8,7 @@ global warten
 global pause
 stop = False
 # Diese Werte dürfen verändert werden
-warten = 2
+warten = random
 pause = random.randrange(6)
 # - - - - - - - - - - - - - - - - - -
 def afkscript():
@@ -42,6 +42,8 @@ def afkscript():
             print("Danke das du mein Script benutzt :D")
             print("Komm auf mein Discord ;D")
             print("https://discord.gg/4PJysZcUVT")
+            keyboard.wait('enter')
+            sys.exit()
               # Stattdessen von exit() zu sys.exit() wechseln
 
 def stop_script():
